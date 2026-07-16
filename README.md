@@ -43,7 +43,7 @@ Specialization
 
 ## Backend
 
-- Java 8 / 11 / 17
+- Java 8
 - Spring Boot
 - Spring Cloud
 - Spring Data JPA
